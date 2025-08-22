@@ -1,0 +1,13 @@
+﻿Region,Sum of Sales,Segment
+West,355241.191,Consumer
+East,347906.605,Consumer
+Central,250210.522,Consumer
+West,220018.2785,Corporate
+East,195897.425,Corporate
+South,194702.213,Consumer
+Central,152031.4968,Corporate
+West,134960.215,Home Office
+East,125714.696,Home Office
+South,120546.8745,Corporate
+Central,90404.8944,Home Office
+South,73902.3715,Home Office
